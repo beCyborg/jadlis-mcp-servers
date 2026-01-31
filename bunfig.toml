@@ -1,0 +1,9 @@
+[install]
+auto = "fallback"
+
+[install.lockfile]
+save = true
+print = "yarn"
+
+[test]
+coverage = true
